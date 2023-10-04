@@ -1,0 +1,49 @@
+//Exercice 1 : Création d'une classe
+
+//1.1. Créez une classe nommée Personne avec les attributs suivants :
+
+// nom (de type chaîne de caractères)
+// prenom (de type chaîne de caractères)
+// age (de type nombre entier)
+// 1.2. Ajoutez un constructeur à la classe Personne qui permet 
+// d'initialiser ces attributs lors de la création d'un objet.
+
+// Exercice 2 : Création d'objets
+
+// 2.1. Créez trois objets de la classe Personne en utilisant le constructeur. 
+// Remplissez les informations de ces objets avec des données de votre choix.
+
+// 2.2. Affichez les informations de chaque personne 
+// (nom, prénom et âge) à l'aide de méthodes appropriées.
+
+
+// Exercice 1
+
+class Personne {
+    constructor( a:string,  b:string, c:number){
+        this.nom=a
+        this.prenom=b
+        this.age=c
+    }
+   nom:string
+   prenom:string
+   age:number
+
+   anniversaire(){
+    this.age++
+   }
+   
+
+
+}
+
+// exercice 2
+
+const personne1= new Personne("xavier","roy",19)
+const personne2= new Personne("steph","yor",20)
+const personne3= new Personne("nicolas","prince",25)
+
+console.log(personne1,personne2,personne3)
+
+personne1.anniversaire()
+console.log(personne1.age)

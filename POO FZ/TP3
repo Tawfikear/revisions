@@ -1,0 +1,40 @@
+Exercice 6: Gestion d'une bibliothèque
+Créez une classe "Livre" avec les attributs suivants :
+
+Titre
+Auteur
+Année de publication
+ISBN (numéro d'identification du livre)
+Créez une classe "Bibliothèque" qui peut stocker une liste de livres. Ajoutez des méthodes pour ajouter un livre à la bibliothèque, retirer un livre de la bibliothèque et afficher la liste des livres disponibles.
+
+Créez quelques objets de la classe "Livre" et ajoutez-les à votre bibliothèque. Utilisez les méthodes de la classe "Bibliothèque" pour gérer les livres.
+
+Exercice 7: Modélisation d'un compte bancaire
+Créez une classe "CompteBancaire" avec les attributs suivants :
+
+Titulaire du compte
+Solde
+Ajoutez des méthodes pour déposer de l'argent sur le compte, retirer de l'argent du compte et afficher le solde actuel.
+
+Créez quelques objets de la classe "CompteBancaire" pour différents titulaires de compte et effectuez des opérations de dépôt et de retrait.
+
+Exercice 8: Gestion d'une liste de tâches
+Créez une classe "Tâche" avec les attributs suivants :
+
+Description de la tâche
+Statut de la tâche (complétée ou non)
+Créez une classe "ListeDeTâches" qui peut stocker une liste de tâches. Ajoutez des méthodes pour ajouter une tâche, marquer une tâche comme complétée et afficher la liste des tâches.
+
+Créez quelques objets de la classe "Tâche" et ajoutez-les à votre liste de tâches. Utilisez les méthodes de la classe "ListeDeTâches" pour gérer les tâches.
+
+Exercice 9: Gestion d'un zoo
+Créez une classe "Animal" avec les attributs suivants :
+
+Nom de l'animal
+Espèce de l'animal
+Âge de l'animal
+Créez une classe "Zoo" qui peut stocker une liste d'animaux. Ajoutez des méthodes pour ajouter un animal au zoo, retirer un animal du zoo et afficher la liste des animaux du zoo.
+
+Créez quelques objets de la classe "Animal" et ajoutez-les à votre zoo. Utilisez les méthodes de la classe "Zoo" pour gérer les animaux.
+
+Ces exercices devraient vous permettre de pratiquer davantage la création de classes et d'objets en POO. N'hésitez pas à personnaliser les classes et les méthodes en fonction de vos besoins d'apprentissage. Bonne programmation !

@@ -1,0 +1,67 @@
+Exercice 1 : Création d'une classe
+
+1.1. Créez une classe nommée Personne avec les attributs suivants :
+
+nom (de type chaîne de caractères)
+prenom (de type chaîne de caractères)
+age (de type nombre entier)
+1.2. Ajoutez un constructeur à la classe Personne qui permet 
+d'initialiser ces attributs lors de la création d'un objet.
+
+Exercice 2 : Création d'objets
+
+2.1. Créez trois objets de la classe Personne en utilisant le constructeur. 
+Remplissez les informations de ces objets avec des données de votre choix.
+
+2.2. Affichez les informations de chaque personne 
+(nom, prénom et âge) à l'aide de méthodes appropriées.
+
+Exercice 3 : Méthodes de classe
+
+3.1. Ajoutez une méthode à la classe Personne appelée anniversaire qui incrémente
+ l'âge de la personne de 1 an à chaque appel.
+
+3.2. Appelez la méthode anniversaire pour l'un des objets créés dans l'exercice 
+2 pour simuler le passage d'une année.
+
+3.3. Affichez la nouvelle valeur de l'âge de la personne.
+//
+Objectifs pédagogiques:
+Comprendre les concepts de base de la programmation orientée objet (POO).
+Apprendre à créer des classes et à instancier des objets.
+Pratiquer la définition de méthodes et d'attributs de classe.
+Exercice 1: Création d'une classe "Personne"
+Créez une classe appelée "Personne" avec les attributs suivants :
+
+Nom
+Prénom
+Âge
+Ajoutez un constructeur à la classe "Personne" pour initialiser les attributs lors de la création d'un objet.
+
+Écrivez une méthode appelée "afficher_informations" qui affiche les informations de la personne (nom, prénom, âge) sous la forme : "Nom: [Nom], Prénom: [Prénom], Âge: [Âge]".
+
+Exercice 2: Utilisation de la classe "Personne"
+Créez trois objets de la classe "Personne" en utilisant le constructeur, en fournissant différentes valeurs pour les attributs.
+
+Appelez la méthode "afficher_informations" pour chaque objet créé pour afficher leurs informations.
+
+Exercice 3: Création d'une classe "Employé"
+Créez une nouvelle classe appelée "Employé" avec les attributs suivants :
+
+Numéro d'employé
+Salaire
+Ajoutez un constructeur à la classe "Employé" pour initialiser les attributs lors de la création d'un objet.
+
+Écrivez une méthode appelée "afficher_details" qui affiche les détails de l'employé, y compris son numéro d'employé et son salaire.
+
+Exercice 4: Utilisation de la classe "Employé"
+Créez deux objets de la classe "Employé" en utilisant le constructeur, en fournissant différentes valeurs pour les attributs.
+
+Appelez la méthode "afficher_details" pour chaque employé créé pour afficher leurs détails.
+
+Exercice 5: Bonus (Facultatif)
+Ajoutez des méthodes supplémentaires à vos classes pour effectuer des opérations telles que l'augmentation de salaire, la modification de l'âge, etc.
+
+Créez d'autres classes qui ne sont pas liées par l'héritage, mais qui utilisent des objets de différentes classes pour effectuer des opérations complexes.
+
+N'oubliez pas de commenter votre code et d'expliquer vos choix de conception. Bon travail
